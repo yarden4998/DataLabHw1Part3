@@ -4,7 +4,7 @@
 
 ## 🌟 Overview
 
-This Chatbot provides information on Startups all over the world. 
+We will explore the capabilities of Pinecone VectorDB and implement a basic Retrieval-Augmented Generation (RAG) pipeline. The goal is to enhance the performance of a standard Question Answering (QA) model by leveraging relevant documents from a vector database
 
 ## 🚀 Installation
 
